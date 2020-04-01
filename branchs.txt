@@ -1,0 +1,1 @@
+Aprendi o que são branchs e como transitar e manipular entre elas. Um ponto muito importante também é o MERGE, que compila a diferença entre duas branchs.
